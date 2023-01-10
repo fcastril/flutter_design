@@ -33,9 +33,9 @@
     },
     {
       "name": "cupertino_icons",
-      "rootUri": "file:///Applications/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.5",
+      "rootUri": "file:///Applications/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-0.1.3",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.0"
     },
     {
       "name": "fake_async",
@@ -50,20 +50,8 @@
       "languageVersion": "2.17"
     },
     {
-      "name": "flutter_lints",
-      "rootUri": "file:///Applications/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_lints-2.0.1",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
       "name": "flutter_test",
       "rootUri": "file:///Applications/flutter/packages/flutter_test",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
-      "name": "lints",
-      "rootUri": "file:///Applications/flutter/.pub-cache/hosted/pub.dartlang.org/lints-2.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -140,13 +128,13 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "designsapp",
+      "name": "disenos",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "2.1"
     }
   ],
-  "generated": "2023-01-09T15:57:17.032838Z",
+  "generated": "2023-01-10T00:46:35.102098Z",
   "generator": "pub",
   "generatorVersion": "2.18.6"
 }
